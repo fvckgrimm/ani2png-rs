@@ -20,7 +20,7 @@ cargo build -r
 ## Usage
 
 ```bash
-ani2png-rs Move.ani
+ani2png-rs {file}.ani
 ```
 
 It will create a subdirectory called `Move` and place all the png files for the related .ani file in there to be used.
